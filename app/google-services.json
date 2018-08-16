@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622165614155",
+    "firebase_url": "https://timetables-d92e9.firebaseio.com",
+    "project_id": "timetables-d92e9",
+    "storage_bucket": "timetables-d92e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622165614155:android:9933bbed5f34067d",
+        "android_client_info": {
+          "package_name": "com.aqeel.johnwick.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622165614155-lfu6lb18idc5ai9tn0np78g4tpi52flq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aqeel.johnwick.timetable",
+            "certificate_hash": "d772f65e37bfefd5b91b2de8d88e2af0403b58a0"
+          }
+        },
+        {
+          "client_id": "622165614155-u3php2b51aiefdq58bjqq101riuohg86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAki_lMK3L5g4r2CJqbr0ytF7i4NC0PoHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622165614155-u3php2b51aiefdq58bjqq101riuohg86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
